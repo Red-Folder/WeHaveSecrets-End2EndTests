@@ -57,3 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
+# Videos and screenshots for Cypress
+cypress/videos
+cypress/screenshots
